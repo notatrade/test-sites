@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+   <head>
+    <meta charset="utf-16">
+    <meta name="language" content="ind">
+     <title>ꦒꦸꦢꦔꦾꦮꦶꦱꦩ꧀ꦮꦺꦭ꧀ </title>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Noto Sans Javanese">
+      
+      <style>
+          body {
+      margin: 0;
+      padding: 0;
+      background-color: black;
+      color: white;
+      font-family: "noto sans javanese", sans-sherif;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      min-height: 100vh;
+      animation: fadeIn 1.5s ease-in;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+      </style>
+  </head>
+ <body> 
+    <h1 style="color:Snow;"> ꧁ꦎꦀꦱ꧀ꦮꦱ꧀ꦠꦶ꧂ </h1>
+     <br>
+     <br>
+      <p style="color:tomato;">
+        ꦫꦠꦲꦪꦸꦸꦠꦸꦏ꧀ꦏꦶꦠꦱ꧀ꦩ꧀ꦮ​!!!
+        <br>
+        ꦗꦶꦏꦴꦤ꧀ꦝꦩꦿꦱꦱ꧀ꦤꦁꦩꦏꦧ꧀ꦫ꧀ꦰ꧀ꦤꦁꦭꦃ
+        <br>
+        ꦗꦶꦏꦴꦤ꧀ꦝꦠꦶꦢꦏ꧀ꦩꦏꦧ꧀ꦫ꧀ꦰ꧀ꦤꦁꦗꦸꦒꦭ
+      </p>"
+        <br>
+         <h2 style="color:snow;">stuffs</h2>  
+           <p style="color:red;">
+             bed rotting
+             <br>
+             <a href="https://drive.google.com/drive/folders/1u0cbHsOTNNXiKPbkC62wd6V4hQk2Wo7_?usp=drive_link">光が死んだ夏 in colloquial indonesian depok dialect</a>
+             <br>
+             <a href="https://youtu.be/7rBQHFRjPnA?list=PL9X0DpqiLN8to8vppcHo01xNgrF32y3ZO">good songs (recommend me more plz)</a>
+          </p>
+  </body>
+</html>
